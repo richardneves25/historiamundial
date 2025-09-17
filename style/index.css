@@ -4,8 +4,11 @@ padding: 0;
 
 
 }
+body {
+    background-color: cornsilk;
+}
 
-<<<<<<< HEAD
+
     header h1 {
 
 text-align: center;
@@ -18,39 +21,19 @@ margin-right: -10px;
 }
 
 
-
 header p {
     text-align: center;
     margin-top: 50px;
     margin-left: 40px;
     margin-right: 40px;
-=======
-header h1{
-    justify-content: center;
-    display: flex;
-      gap: 50px;
-    margin-top: 50px;
 }
-
-
-header p {
-  display: flex;
+main {
     text-align: center;
-    align-items: center;
-    justify-content: center;
-    gap: 50px;
-    margin-top: 50px;
->>>>>>> 2886da0cadbb3c1dce3e77205dabb40cc45187cf
+   
 }
-main h2 {
-      justify-content: center;
-    display: flex;
 
-<<<<<<< HEAD
     
-=======
->>>>>>> 2886da0cadbb3c1dce3e77205dabb40cc45187cf
-}
+
 main ul {
     
     display: flex;
@@ -66,3 +49,13 @@ main ul li {
     
     
 }
+footer { 
+    background: rgb(233, 219, 177);
+    padding: 30px;
+    margin-top: -20px;
+    margin-left: -10px;
+    margin-right: -10px;
+   text-align: center;
+  
+}
+    
