@@ -1,0 +1,44 @@
+* {
+
+}
+
+ h1 {
+text-align: center;
+background-color: rgb(233, 219, 177);
+padding: 30px;
+margin-top: -10px; 
+margin-left: -10px;
+margin-right: -10px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  border-radius:  200%;
+}
+
+footer {
+text-align: center;
+background-color: rgb(233, 219, 177);
+padding: 30px;
+margin-top: -10px; 
+margin-left: -10px;
+margin-right: -10px;
+}
+
+body {
+  background-color: cornsilk
+  }
+
+   #botao {
+    display: flex;
+  }
+
+  .botao1 {
+    margin-right: 490px;
+    margin-left: 0;
+  }
+  .botao2 {
+    margin-left: 490px;
+    margin-right: 0;
+  }

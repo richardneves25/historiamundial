@@ -1,0 +1,25 @@
+* { 
+    margin: 10;
+    padding: 10;
+}
+h1 {
+text-align: center;
+background-color: rgb(233, 219, 177);
+padding: 30px;
+margin-top: -10px; 
+margin-left: -10px;
+margin-right: -10px;
+}
+
+footer {
+text-align: center;
+background-color: rgb(233, 219, 177);
+padding: 30px;
+margin-top: -10px; 
+margin-left: -10px;
+margin-right: -10px;
+}
+
+body {
+  background-color: cornsilk
+  }
