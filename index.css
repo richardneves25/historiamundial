@@ -1,4 +1,4 @@
-*{
+* {
 margin: 0;
 padding: 0;
 
@@ -26,14 +26,21 @@ header p {
     margin-top: 50px;
     margin-left: 40px;
     margin-right: 40px;
+<<<<<<< HEAD:style/index.css
 }
 main {
     text-align: center;
    
+=======
+>>>>>>> ed473fad65acb0932376ee8f61ec49f1aa147fd4:index.css
 }
 
     
+<<<<<<< HEAD:style/index.css
 
+=======
+}
+>>>>>>> ed473fad65acb0932376ee8f61ec49f1aa147fd4:index.css
 main ul {
     
     display: flex;
@@ -49,6 +56,7 @@ main ul li {
     
     
 }
+<<<<<<< HEAD:style/index.css
 footer { 
     background: rgb(233, 219, 177);
     padding: 30px;
@@ -59,3 +67,6 @@ footer {
   
 }
     
+=======
+
+>>>>>>> ed473fad65acb0932376ee8f61ec49f1aa147fd4:index.css
