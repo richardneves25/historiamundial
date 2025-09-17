@@ -5,6 +5,7 @@ padding: 0;
 
 }
 
+<<<<<<< HEAD
     header h1 {
 
 text-align: center;
@@ -23,12 +24,32 @@ header p {
     margin-top: 50px;
     margin-left: 40px;
     margin-right: 40px;
+=======
+header h1{
+    justify-content: center;
+    display: flex;
+      gap: 50px;
+    margin-top: 50px;
+}
+
+
+header p {
+  display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 50px;
+>>>>>>> 2886da0cadbb3c1dce3e77205dabb40cc45187cf
 }
 main h2 {
       justify-content: center;
     display: flex;
 
+<<<<<<< HEAD
     
+=======
+>>>>>>> 2886da0cadbb3c1dce3e77205dabb40cc45187cf
 }
 main ul {
     
