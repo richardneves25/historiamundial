@@ -38,14 +38,18 @@ main img {
   
 }
 #botao {
-    display: flex;
+   display: flex;
+    
 }
 .botao1 {
-    margin-right: 550px;
-    margin-left: 0%;
+    margin-right: 495px;
+    margin-left: 0px;
+   
 }
 .botao2 {
-    margin-left: 550px;
-    margin-right: 0%;
+    margin-left: 495px;
+    margin-right: 0px;
+   
 }
+   
 
